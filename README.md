@@ -28,4 +28,4 @@ Real-life examples bring theoretical concepts to life. In the context of data sc
 
 ## Get in Touch
 
-Connect with me on LinkedIn for further discussions and collaborations: [Your LinkedIn Profile](#)
+Connect with me on LinkedIn for further discussions and collaborations: [https://www.linkedin.com/in/said-huner/](#)
